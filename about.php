@@ -4,7 +4,9 @@
 	<title>First File</title>
 </head>
 <body>
-<h1>How are you dear MDEZ</h1>
-<div>This is new insertation</div>
+
+<p>This is About us page</p>
+
+<h1>This is element has been added</h1>
 </body>
 </html>
